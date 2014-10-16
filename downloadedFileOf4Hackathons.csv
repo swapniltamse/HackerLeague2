@@ -1,0 +1,78 @@
+b'[{"id":"53b31fc5c0131fd690000001","name":"2014 Pearson Student Coding Contest","slug":"2014-pearson-student-coding-contest","description":"The Pearson Student Coding Contest is designed to reward Contestants who develop relevant, innovative, creative, functional, and original applications that integrate with the Pearson APIs. The 2014 Contest is open and limited to students who are enrolled in an undergraduate institution within the United States and Canada (excluding Quebec).\\r\
+\\r\
+**Can you develop a learning tool that has a measurable impact on improving someone\\u2019s life?**  This year, we invite you to join us on our path to ensuring the efficacy of online learning tools. Efficacy in education is about ensuring the tools learners use are driving improvements in their learning. To find out more about Pearson\\u2019s efficacy program, visit: [http://efficacy.pearson.com/](http://efficacy.pearson.com/)\\r\
+\\r\
+What are some examples that show efficacy or a positive effect on learning? An application that:\\r\
+\\r\
+* Reduces wrong answers\\r\
+* Increases retention rates\\r\
+* Raises exam scores\\r\
+* Accelerates student advancement\\r\
+* Improves student engagement\\r\
+* Improves teacher evaluations\\r\
+* Enables students to identify what they know and don\\u2019t know\\r\
+* Lets learners access information when and where they need to\\r\
+\\r\
+Need more inspiration? Visit [Pearson MyLabs and Mastering]( http://www.pearsonmylabandmastering.com/northamerica/educators/results/index.php) and [**Explore Results**]( http://www.pearsonmylabandmastering.com/northamerica/educators/results/results-library.php).\\r\
+\\r\
+How\\r\
+-----\\r\
++ [Learn about the Pearson APIs]( https://www.hackerleague.org/hackathons/2014-pearson-student-coding-contest/wikipages/53b579b58323428e00000006) you can use.\\r\
+\\r\
++ [Join this Hack on HackerLeague]( https://www.hackerleague.org/hackathons/2014-pearson-student-coding-contest/participations/new) and [submit the secondary registration form]( http://pdn.pearson.com/2014-pearson-student-coding-contest-profile-info) to get access to all of the available APIs.\\r\
+\\r\
++ [Submit your idea proposal]( https://www.hackerleague.org/hackathons/2014-pearson-student-coding-contest/wikipages/53b57c3ab8abf5169f000005) by October 15, 2014. \\r\
+\\r\
+When \\r\
+-----\\r\
+Begin by submitting your Idea Proposal from September 1, 2014 to October 15, 2014. Contestants will be notified by October 27, 2014 if their Idea Proposal has been accepted. \\r\
+\\r\
+Contestants with approved Idea Proposals have from October 27, 2014 to January 18, 2015 to develop and submit their Entry. \\r\
+\\r\
+Three (3) Finalists will be announced by February 7, 2015. The three finalists will present their Entries at the Pearson eCollege office in Denver, Colorado on February 20, 2015, and cash prizes will be decided.\\r\
+\\r\
+Prizes\\r\
+------\\r\
+* First place will receive an award of $5,000\\r\
+* Second place will receive an award of $2,500\\r\
+* Third place will receive an award of $1,000\\r\
+\\r\
+The top three (3) finalists will present their Entries at the Pearson offices in Denver, CO. \\r\
+\\r\
+Internship Interviews\\r\
+------\\r\
+In additional to the cash prizes three (3) the 10 Semi-finalists will have the opportunity to apply for and be granted phone interviews for available Summer 2015 internships at various Pearson offices. Internship interviews are offered in addition to, and separate from, the cash prizes. \\r\
+","external_url":"http://www.pearsonstudents.com/codingcontest/","state":"hacking","start_time":"2014-09-01T06:01:00Z","end_time":"2015-01-20T06:59:00Z","logo":"https://s3.amazonaws.com/hackerleague-production/organizations/logos/53b31fc5c0131fd690000001/original.png?1404248002","students_only":false,"total_hackers":158,"total_hacks":30,"location":{"city":"USA & Canada","state":"","country":"(excludes Quebec)"},"url":"http://hackerleague.org/hackathons/2014-pearson-student-coding-contest"},{"id":"536ff25735b8c5e181000006","name":"nwHacks","slug":"nwhacks","description":"Northwest Hacks is the premiere hackathon in the Pacific Northwest region. Top hackers from Seattle, Vancouver, Victoria, and Portland come to compete for thousands of dollars and sweet hardware like Occulus Rifts and Leap Motion controllers.\\r\
+\\r\
+The event is 48 hours long, in the same stadium with 400 other hackers. Travel will be reimbursed for hackers living in Cascadia within reasonable limits and if the hacker is not near a city that has organized buses (i.e. 40+ people).\\r\
+\\r\
+Hope to see you there!","external_url":"nwhacks.com","state":"pending","start_time":"2015-01-10T00:00:00Z","end_time":"2015-01-11T09:00:00Z","logo":"https://s3.amazonaws.com/hackerleague-production/organizations/logos/536ff25735b8c5e181000006/original.png?1399846156","students_only":false,"total_hackers":0,"total_hacks":0,"location":{"city":"Vancouver","state":"British Columbia","country":"Canada"},"url":"http://hackerleague.org/hackathons/nwhacks"},{"id":"5434b4dc764b6a3796000003","name":"The Young Hackers: LocalHackDay 2014","slug":"the-young-hackers-localhackday-2014","description":"Who participates in Local Hack Day?\\r\
+\\r\
+Any student is welcome to participate. Individual events may have different requirements regarding age and student status. All hack days follow the MLH Code of Conduct to ensure a welcoming environment for hackers and a publicly available reporting system for incidents.\\r\
+\\r\
+When is Local Hack Day?\\r\
+\\r\
+Each event during Local Hack Day kicks off 9:00 am local time December 6th and lasts until 9:00 pm local time.\\r\
+\\r\
+What do I if there isn\'t a Local Hack Day event near me?\\r\
+\\r\
+You can host one! Check out our guidelines and suggestions for hosting an event.\\r\
+\\r\
+What can I build?\\r\
+\\r\
+You can build anything you want. Make sure to bring any hardware, laptops or smart-phones that you want to utilize during the event.\\r\
+\\r\
+What if I\'ve never been to a hackathon before?\\r\
+\\r\
+A hack day is the perfect chance for you to experience what a Hackathon is like. Regardless of experience level, all are welcome to come learn, celebrate and build.\\r\
+\\r\
+Do I need a team?\\r\
+\\r\
+Each Local Hack Day will start with a team formation workshop to help you find a team if you don\'t have one. You don\'t need to have a team to participate though.","external_url":"theyounghackers.strikingly.com","state":"pending","start_time":"2014-12-06T14:00:00Z","end_time":"2014-12-07T02:00:00Z","logo":"https://s3.amazonaws.com/hackerleague-production/organizations/logos/5434b4dc764b6a3796000003/original.jpg?1412740314","students_only":false,"total_hackers":6,"total_hacks":0,"location":{"city":"New York","state":"New York","country":"United States"},"url":"http://hackerleague.org/hackathons/the-young-hackers-localhackday-2014"},{"id":"5436a593fa6df3d258000013","name":"Autodesk University 2014 Dynamo Hackathon","slug":"autodesk-university-2014-dynamo-hackathon","description":"Want to hack on Dynamo with industry leaders? Interested in flexing your coding and design muscles with a group of your peers? Join us in person for the inaugural Dynamo Hackathon at Autodesk University 2014.\\r\
+\\r\
+The in-person hack starts at 6:00 pm Monday December 1st after the Computational BIM Workshops and runs until 6:00 pm Wednesday December 3rd. \\r\
+\\r\
+The awards ceremony will be held at the CASE Party at the miX lounge http://delanolasvegas.com/dining/mix-lounge.aspx Wednesday evening from 7:00 pm to 11:00 pm\\r\
+\\r\
+Autodesk University 2014 is being held at the Mandalay Bay in Las Vegas.\\r\
+","external_url":"","state":"pending","start_time":"2014-12-02T02:00:00Z","end_time":"2014-12-04T02:00:00Z","logo":"/logos/original/missing.png","students_only":false,"total_hackers":1,"total_hacks":0,"location":{"city":"Las Vegas","state":"Nevada","country":"United States"},"url":"http://hackerleague.org/hackathons/autodesk-university-2014-dynamo-hackathon"}]'
